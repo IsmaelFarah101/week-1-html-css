@@ -1,0 +1,37 @@
+p{
+		color:blue;
+		font-size: 20px;
+		color: white
+}
+h1{
+	color:white;
+}
+body{
+	background-color: brown;
+}
+a{
+	background-color = "purple";
+	text-decoration: none;
+}
+img{
+	border: blue 5px dotted;
+}
+#FavoriteMovie{
+	font-size: 50px;
+	color: Orange;
+}
+#FavoriteBand{
+	font-size: 50px;
+	color: green;
+}
+.favorites{
+	border-style: dashed;
+	border-color: pink;
+	border-width: 8px;
+	margin: 10px;
+	padding:5px;
+}
+
+
+
+
